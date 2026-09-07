@@ -16,9 +16,9 @@ app = Flask(__name__)
 # ============================================
 # TELEGRAM CONFIG
 # ============================================
-API_ID = int(os.environ.get('API_ID', '35710232'))
-API_HASH = os.environ.get('API_HASH', '05bfdc9c4fd9c6a9e64886aae13fb457')
-SESSION_STRING = os.environ.get('SESSION_STRING', '1ApWapzMBu3IGL2ovNb9x-g1zWfZ7YTTTQaNgje0UveUXih0HETA6e5Gi_k5P6e8Y7nfVniGJdswtojkGw2EYDTFkCiQGKvGZjK13cAj8VbWUeM1bCfpcOghAjCkARyBL2h0wqURyVKvfwEKgZCY7MpnWSf4TQdK4fKTGNvTfsxcdfspqMmbe6bPCp6AbH43WTp4dRhaUxMHfJHOPH-ZYEtViEAptOQ3WBMxApdu1mC7BKeSLNAkBREg4KjgsH_O0zsem-sqv6jGRwAP9t-vsz5Z74UYFasXNXRuPeKxuqCuh2V03-eLQQvVvwaRVEuuPKmeBw3ObafguLO1yXJuMdb0JOJxMZIY=')
+API_ID = int(os.environ.get('API_ID', '36879151'))
+API_HASH = os.environ.get('API_HASH', '45360a236343352099ffa29570f48700')
+SESSION_STRING = os.environ.get('SESSION_STRING', '1BVtsOMQBu8B5k-vpEYTBDBxXX20SdK8kApAbT08lt4vzuQIIqsycH00oxKNPZGOc7HcAje_4qUF5Kk6FQ0JGMqjH9LdThnlXrVwxO98Z7gjM0w874HVa6U3Y8LCBLu2SpbifYQ7K4MIe3Li-BVtcQr9YNRJTkW12WWOuetNloXWIiAq51TOn3kTADJM_59k8E2bCO2i_nYxGKFfjzS7zm36s0pxckPdXBqft69GrTRXkkFuwabix3LSmYjoc0HB9_Zsuzxp0qwkZViMFCay68tdxFS57peSLSXnCSXpiwkjXAtc3dNnPJUqyYqC2khHdrqVz9HiWRCoUf5Zu6IcFedVS1BWaMC4=')
 
 # ============================================
 # PROXY SYSTEM
